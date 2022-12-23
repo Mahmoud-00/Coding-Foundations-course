@@ -24,7 +24,7 @@
 
 > the biggest key to understanding CSS is understanding selectors
 
-### ✧ _First_ , lest see what is the CSS Rule Set (CSS Rules):
+### ✧ _First_ , lets see what is the CSS Rule Set (CSS Rules):
 
 **_Rule Set_**: statement that tells browsers how to render particular elements on an HTML page.
 
