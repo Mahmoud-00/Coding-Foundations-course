@@ -53,7 +53,7 @@ Usually, it’s something like ***“Learn ______”***
 
 We’ll probably search for something like: ***“Which programming language should I learn first?”***
 
-### But how do to decide which language to search for?
+### But how do we decide which language to search for?
 
 it’s time to decide what programming language you should choose. There are a couple routes you can go with making this decision. 
  - The first is to choose a programming language based on your goal 
